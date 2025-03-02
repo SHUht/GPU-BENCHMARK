@@ -1,0 +1,3 @@
+Vector Add Time: 0.000516248 seconds
+Matrix Mul Time: 0.00180604 seconds
+Memory Bandwidth Time: 0.00100178 seconds
